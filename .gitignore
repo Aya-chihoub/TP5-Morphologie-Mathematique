@@ -1,0 +1,9 @@
+# Checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
